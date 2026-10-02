@@ -1,0 +1,8 @@
+{
+  "_note": "개발용 최소 자료. 실제 36곡 목록·구간·서사·음원은 계약 data_keys 로 들어와야 하며 아직 전달되지 않았다. 여기 없는 값은 화면에 만들지 않는다.",
+  "premiereDate": "2026-10-04",
+  "songs": [
+    { "id": "no01", "no": 1, "title": "나팔 소리 같은 큰 음성을 들으니", "group": "제1부", "part": "all",
+      "status": "not_started", "needsFocus": false, "segments": [] }
+  ]
+}
